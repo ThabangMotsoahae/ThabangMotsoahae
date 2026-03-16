@@ -1,26 +1,18 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Thabang%20Alfred%20Motsoahae&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=250&section=header&text=Thabang%20Alfred%20Motsoahae&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%"/>
 </p>
 
-<!-- Typing Effect -->
+<!-- Typing Intro Animation -->
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=500&color=3ECF8E&center=true&vCenter=true&width=600&lines=AI+Systems+Architect;Aviation+%26+Travel+Intelligence;Founder+%40+Axulo+Technologies;Operational+AI+Specialist" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3500&pause=500&color=3ECF8E&center=true&vCenter=true&width=750&lines=AI+Systems+Architect;Aviation+%26+Operations+Analytics;Founder+%40+Axulo+Technologies;20%2B+Years+Experience+in+Safety-Critical+Operations" />
 </p>
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:connect@axulo.tech">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://axulo.tech">
-    <img src="https://img.shields.io/badge/Axulo%20Technologies-00C7B7?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/thabang-motsoahae-10272b96/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=spin" /></a>
+  <a href="mailto:connect@axulo.tech"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=spin" /></a>
+  <a href="https://axulo.tech"><img src="https://img.shields.io/badge/Axulo%20Technologies-00C7B7?style=for-the-badge&logo=aboutdotme&logoColor=white&animation=spin" /></a>
 </p>
 
 <!-- Tech Stack Badges -->
@@ -42,25 +34,28 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://your-server.com/snake-rewind.gif" width="650" />
+</p>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> About Me
+## 🎯 About Me
 
 <table>
   <tr>
     <td width="60%">
       
-### 🎯 AI Systems Architect · Operations & Aviation Intelligence
+### AI Systems Architect · Operations & Aviation Intelligence
 
-Founder of **[Axulo Technologies](https://axulo.tech)** — building intelligent aviation and travel infrastructure using AI, predictive analytics, and operational data systems.
+Founder of **[Axulo Technologies](https://axulo.tech)** — designing **mission-critical AI systems, aviation intelligence, and operational dashboards**.
 
 #### 🚀 What I Build
 - 🤖 AI systems for operational intelligence  
 - 📊 Predictive analytics platforms for aviation maintenance  
 - 🛰️ Aviation data infrastructure for fleet reliability  
-- ⚙️ Operational intelligence in safety-critical environments  
+- ⚙️ Decision intelligence dashboards for executives and operators  
 
 #### ⛏️ Background
-> "My experience in mining operations and safety-critical environments shapes how I design technology — systems must be reliable, measurable, and built for real operational conditions."
+> "Experience in mining and safety-critical operations shapes how I build technology — reliable, measurable, and operationally ready.."
 
     </td>
     <td width="40%" align="center">
@@ -73,34 +68,14 @@ Founder of **[Axulo Technologies](https://axulo.tech)** — building intelligent
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30"> Axulo Technologies
-
-> A technology lab building next-generation systems for aviation operations, travel intelligence, and predictive maintenance.
-
-<table align="center">
-  <tr>
-    <td align="center"><b>✈️ Aviation Analytics</b></td>
-    <td align="center"><b>🔧 Maintenance Intelligence</b></td>
-    <td align="center"><b>📊 Operational Risk</b></td>
-    <td align="center"><b>🛰️ Data Infrastructure</b></td>
-  </tr>
-</table>
-
-<p align="center">
-  <b>Mission:</b> <i>"Building intelligent systems that improve safety, efficiency, and decision-making in complex operational environments."</i>
-</p>
-
----
-
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40"> Featured Systems
+## ⚡ Featured Projects
 
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">✈️ AeroTrack</h3>
       <h4 align="center"><i>Aviation Maintenance Intelligence</i></h4>
-      
-**Predictive analytics platform for aircraft reliability and fleet health.**
+      Predictive analytics platform for aircraft reliability & fleet health.
 
 #### 📌 Capabilities
 - ATA chapter defect analysis  
@@ -110,47 +85,47 @@ Founder of **[Axulo Technologies](https://axulo.tech)** — building intelligent
 
 #### 🛠️ Stack
 Python · FastAPI · PostgreSQL · React
-
     </td>
     <td width="50%">
-      <h3 align="center">⚠️ Operational Risk Intelligence</h3>
+      <h3 align="center">⚠️ Operational Risk AI</h3>
       <h4 align="center"><i>Safety-Critical Analytics</i></h4>
-      
-**Analytics models for safety-critical industries including aviation and mining.**
+      Analytics for aviation & mining safety-critical operations.
 
 #### 📌 Capabilities
 - Anomaly detection in operations  
 - Risk scoring algorithms  
-- Performance analytics  
+- Performance dashboards  
 - Safety intelligence dashboards  
 
 #### 🛠️ Stack
 Python · Statistical Models · Real-time Analytics
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3 align="center">🛰️ Aviation Data Infrastructure</h3>
+      Building scalable operational data pipelines for aviation fleets.
 
+#### 🛠️ Stack
+Python · PostgreSQL · Kafka · Streamlit
     </td>
   </tr>
 </table>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Architecture & Core Skills
+## 🧠 Skills & Expertise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,postgres,react,ts,js,html,css,github,gitlab,docker" />
+  <img src="https://progress-bar.dev/100/?title=AI%20Systems%20Architecture&color=8A2BE2&animation=glow&tooltip=20+yrs+experience" />
+  <img src="https://progress-bar.dev/95/?title=Predictive%20Modeling&color=FF6B6B&animation=glow&tooltip=18+yrs+experience" />
+  <img src="https://progress-bar.dev/90/?title=Operational%20Analytics&color=1E90FF&animation=glow&tooltip=17+yrs+experience" />
+  <img src="https://progress-bar.dev/95/?title=Data%20Infrastructure&color=20B2AA&animation=glow&tooltip=19+yrs+experience" />
+  <img src="https://progress-bar.dev/90/?title=Decision%20Intelligence&color=FFC300&animation=glow&tooltip=17+yrs+experience" />
+  <img src="https://progress-bar.dev/85/?title=Edge%20Intelligence&color=FF5733&animation=glow&tooltip=15+yrs+experience" />
+  <img src="https://progress-bar.dev/95/?title=Predictive%20Maintenance&color=DAF7A6&animation=glow&tooltip=19+yrs+experience" />
+  <img src="https://progress-bar.dev/100/?title=Aviation%20Operations&color=3ECF8E&animation=glow&tooltip=20+yrs+experience" />
 </p>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>🧠 AI Systems Architecture</b></td>
-    <td align="center"><b>📈 Predictive Modeling</b></td>
-    <td align="center"><b>📊 Operational Analytics</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>🏗️ Data Infrastructure</b></td>
-    <td align="center"><b>🎯 Decision Intelligence</b></td>
-    <td align="center"><b>⚡ Edge Intelligence</b></td>
-  </tr>
-</table>
 
 ---
 
@@ -162,41 +137,17 @@ Python · Statistical Models · Real-time Analytics
     <th>Description</th>
     <th>Status</th>
   </tr>
-  <tr>
-    <td><b>🔹 aerotrack-ai</b></td>
-    <td>Aircraft maintenance analytics engine</td>
-    <td>🚧 In Development</td>
-  </tr>
-  <tr>
-    <td><b>🔹 aviation-maintenance-analytics</b></td>
-    <td>ATA chapter failure analytics</td>
-    <td>📝 Planning</td>
-  </tr>
-  <tr>
-    <td><b>🔹 fleet-reliability-models</b></td>
-    <td>Predictive reliability modeling</td>
-    <td>📝 Planning</td>
-  </tr>
-  <tr>
-    <td><b>🔹 operational-risk-ai</b></td>
-    <td>Safety risk prediction system</td>
-    <td>🚧 In Development</td>
-  </tr>
-  <tr>
-    <td><b>🔹 aviation-data-infrastructure</b></td>
-    <td>Data pipelines for aviation operations</td>
-    <td>📝 Planning</td>
-  </tr>
-  <tr>
-    <td><b>🔹 axulo-labs</b></td>
-    <td>Experimental AI research</td>
-    <td>🚧 In Development</td>
-  </tr>
+  <tr><td>🔹 aerotrack-ai</td><td>Aircraft maintenance analytics engine</td><td>🚧 In Development</td></tr>
+  <tr><td>🔹 operational-risk-ai</td><td>Safety risk prediction system</td><td>🚧 In Development</td></tr>
+  <tr><td>🔹 fleet-reliability-models</td><td>Predictive reliability modeling</td><td>📝 Planning</td></tr>
+  <tr><td>🔹 aviation-maintenance-analytics</td><td>ATA chapter failure analytics</td><td>📝 Planning</td></tr>
+  <tr><td>🔹 aviation-data-infrastructure</td><td>Data pipelines for aviation operations</td><td>📝 Planning</td></tr>
+  <tr><td>🔹 axulo-labs</td><td>Experimental AI research</td><td>🚧 In Development</td></tr>
 </table>
 
 ---
 
-## 📈 Development Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThabangMotsoahae&theme=react-dark&hide_border=true&area=true" width="95%">
@@ -204,37 +155,13 @@ Python · Statistical Models · Real-time Analytics
 
 ---
 
-## ⏱️ Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🚀 Launched **AeroTrack** aviation maintenance platform  
-2. 📊 Developed predictive maintenance models for fleet reliability  
-3. 🔧 Built operational risk intelligence system for safety-critical environments  
-4. 📝 Published research on aviation data infrastructure  
-<!--END_SECTION:activity-->
-
----
-
-## 🌐 Let's Connect
+## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:connect@axulo.tech">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://axulo.tech">
-    <img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<!-- Footer -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=120&section=footer&fontSize=20&animation=twinkling" width="100%"/>
+  <a href="https://www.linkedin.com/in/thabang-motsoahae-10272b96/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&animation=spin" /></a>
+  <a href="https://twitter.com/your-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&animation=spin" /></a>
+  <a href="mailto:connect@axulo.tech"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&animation=spin" /></a>
+  <a href="https://axulo.tech"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white&animation=spin" /></a>
 </p>
 
 <p align="center">
