@@ -1,68 +1,130 @@
 # Thabang Alfred Motsoahae
 
-Founder & Chief AI Architect at Axulo Technologies.
+![Python](https://img.shields.io/badge/Python-AI-blue?style=for-the-badge&logo=python)
+![Aviation](https://img.shields.io/badge/Aviation-Analytics-darkblue?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue?style=for-the-badge)
+![AI Systems](https://img.shields.io/badge/AI-Systems%20Architecture-purple?style=for-the-badge)
 
-I design intelligent systems at the intersection of:
+### AI Systems Architect • Aviation & Operational Intelligence
+
+Founder of **Axulo Technologies** — building intelligent aviation and travel infrastructure using artificial intelligence, predictive analytics, and operational data systems.
+
+---
+
+## Systems Architecture Focus
+
+I design intelligent systems that combine:
 
 • Artificial Intelligence
-• Data Analytics
-• IoT Systems
-• Aviation & Travel Technology
+• Predictive Maintenance
+• Aviation Data Infrastructure
+• Operational Intelligence Platforms
+• Industrial Safety Analytics
+• IoT & Edge Data Systems
 
-My focus is building products that solve real-world operational problems using data.
-
----
-
-## Current Projects
-
-### AeroTrack – Aviation Maintenance Intelligence Platform
-Predictive analytics platform for aircraft maintenance operations.
-
-Features:
-- ATA chapter defect tracking
-- Maintenance reliability analytics
-- Fleet health dashboards
-- Predictive failure modeling
-
-Tech Stack:
-Python • React • SQL • Data Visualization
+My background in **mining operations and safety-critical environments** informs how I design technology — systems must be reliable, measurable, and built for real operational conditions.
 
 ---
 
-### Axulo Smart Luggage Tracking
-IoT-enabled luggage tracking ecosystem for modern travelers.
+# Axulo Technologies
 
-Features:
-- Real-time baggage tracking
-- Airport risk prediction
-- Travel disruption alerts
-- AI-powered baggage routing insights
+**Axulo Technologies** is a technology lab focused on building next-generation infrastructure for aviation and travel.
 
-Tech Stack:
-IoT • Predictive Analytics • Data Systems
+Key research areas:
 
----
+• Aviation analytics platforms
+• Fleet maintenance intelligence
+• Operational risk modeling
+• Predictive maintenance systems
+• Aviation data infrastructure
 
-## Skills
-
-Data Analytics  
-Business Intelligence  
-Predictive Modeling  
-Operational Systems Design  
-Product Strategy  
-
-Tools:
-Python • SQL • Power BI • React • Git
+Our mission is to build **intelligence systems that improve safety, efficiency, and decision-making in complex operational environments.**
 
 ---
 
-## Mission
+# Featured Systems
 
-Building intelligent infrastructure for the future of travel, aviation, and mobility.
+## AeroTrack — Aviation Maintenance Intelligence
+
+Predictive analytics platform for aircraft reliability and fleet health.
+
+Capabilities:
+
+• ATA chapter defect analytics
+• fleet reliability modeling
+• predictive maintenance alerts
+• fleet availability dashboards
+
+Technology:
+
+Python • FastAPI • PostgreSQL • React
 
 ---
 
-## Connect With Me
+## Operational Risk Intelligence
 
-LinkedIn: (add your link)
-Company: Axulo Technologies
+Analytics models for safety-critical industries including aviation and mining.
+
+Capabilities:
+
+• anomaly detection
+• risk scoring models
+• operational performance analytics
+• safety intelligence dashboards
+
+---
+
+# Architecture & Skills
+
+AI Systems Architecture
+Predictive Modeling
+Operational Analytics
+Data Infrastructure Design
+Decision Intelligence Systems
+
+---
+
+# Toolchain
+
+Python
+SQL
+FastAPI
+Power BI
+Streamlit
+PostgreSQL
+
+---
+
+# Axulo Lab Roadmap
+
+Repositories under development:
+
+```
+aerotrack-ai
+aviation-maintenance-analytics
+fleet-reliability-models
+aviation-data-infrastructure
+operational-risk-ai
+axulo-labs
+```
+
+---
+
+# Mission
+
+Building intelligent systems that improve **safety, efficiency, and decision-making** in complex operational environments.
+
+---
+
+# Connect
+
+LinkedIn: (https://www.linkedin.com/in/thabang-motsoahae-10272b96)
+Axulo Technologies
+[connect@axulo.tech](mailto:connect@axulo.tech)
+
+## GitHub Analytics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ThabangMotsoahae&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThabangMotsoahae&layout=compact&theme=tokyonight)
